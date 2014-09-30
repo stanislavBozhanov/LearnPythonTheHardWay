@@ -1,0 +1,5 @@
+print("I did one kilometer for 1 minute and 25 seconds on my bike")
+print("I wonder what's my average speed?!?!")
+print("So if we divide 1 kilometer to the seconds?")
+print("But we also need to muliply it with 3600 to get km/h")
+print("So my average speed is", 1 / 85.0 * 3600)
